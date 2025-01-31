@@ -1,0 +1,12 @@
+langchain 
+langchain_community 
+langchain_chroma
+langchain-groq
+langchain-huggingface
+fastapi 
+nest-asyncio 
+pyngrok 
+uvicorn
+pypdf
+python-multipart
+PyPDF2
